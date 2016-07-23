@@ -1,0 +1,4 @@
+Cython==0.24.1
+lsm-db==0.3.2
+pytest==2.9.2
+uWSGI==2.0.13.1
